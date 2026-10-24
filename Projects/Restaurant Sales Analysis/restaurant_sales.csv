@@ -1,0 +1,601 @@
+order_id,date,item,category,price,quantity,payment_method,total
+1447,2025-01-01,Pasta,Main Course,230,2,UPI,460
+1064,2025-01-02,Pasta,Main Course,230,2,UPI,460
+1264,2025-01-02,Pasta,Main Course,230,4,UPI,920
+1207,2025-01-02,Chocolate Brownie,Desserts,160,1,Card,160
+1497,2025-01-04,Chocolate Brownie,Desserts,160,1,Card,160
+1326,2025-01-04,Veg Burger,Fast Food,150,3,UPI,450
+1129,2025-01-05,Margherita Pizza,Main Course,250,4,Card,1000
+1416,2025-01-05,Fresh Lime Soda,Beverages,90,4,UPI,360
+1335,2025-01-06,Chicken Wings,Starters,260,2,Cash,520
+1098,2025-01-09,Chicken Wings,Starters,260,3,Card,780
+1270,2025-01-09,Paneer Butter Masala,Main Course,280,3,Card,840
+1485,2025-01-10,Chicken Biryani,Main Course,320,1,UPI,320
+1519,2025-01-12,Chicken Wings,Starters,260,4,UPI,1040
+1152,2025-01-13,French Fries,Fast Food,120,3,UPI,360
+1555,2025-01-13,Veg Burger,Fast Food,150,1,UPI,150
+1379,2025-01-13,Margherita Pizza,Main Course,250,4,UPI,1000
+1051,2025-01-14,Ice Cream,Desserts,110,2,Cash,220
+1135,2025-01-15,French Fries,Fast Food,120,4,UPI,480
+1093,2025-01-15,Chicken Wings,Starters,260,3,UPI,780
+1498,2025-01-16,Veg Burger,Fast Food,150,2,UPI,300
+1330,2025-01-17,Paneer Butter Masala,Main Course,280,1,UPI,280
+1353,2025-01-18,French Fries,Fast Food,120,4,Cash,480
+1567,2025-01-19,Chicken Biryani,Main Course,320,1,Cash,320
+1384,2025-01-20,Paneer Butter Masala,Main Course,280,1,UPI,280
+1045,2025-01-21,Ice Cream,Desserts,110,4,UPI,440
+1007,2025-01-21,Pasta,Main Course,230,3,Card,690
+1026,2025-01-22,Cold Coffee,Beverages,130,3,UPI,390
+1308,2025-01-22,Chicken Biryani,Main Course,320,1,UPI,320
+1483,2025-01-23,Chicken Biryani,Main Course,320,1,UPI,320
+1581,2025-01-25,Margherita Pizza,Main Course,250,1,Cash,250
+1376,2025-01-26,Veg Burger,Fast Food,150,3,Cash,450
+1317,2025-01-27,Margherita Pizza,Main Course,250,4,Card,1000
+1165,2025-01-28,French Fries,Fast Food,120,3,UPI,360
+1110,2025-01-28,Cold Coffee,Beverages,130,4,Card,520
+1150,2025-01-29,Ice Cream,Desserts,110,3,Card,330
+1306,2025-02-02,Fresh Lime Soda,Beverages,90,2,UPI,180
+1508,2025-02-02,Paneer Butter Masala,Main Course,280,2,Cash,560
+1115,2025-02-02,Chicken Biryani,Main Course,320,4,UPI,1280
+1124,2025-02-04,Paneer Butter Masala,Main Course,280,3,Cash,840
+1524,2025-02-04,Paneer Butter Masala,Main Course,280,1,UPI,280
+1327,2025-02-04,Fresh Lime Soda,Beverages,90,3,Cash,270
+1059,2025-02-04,French Fries,Fast Food,120,2,Card,240
+1151,2025-02-05,Margherita Pizza,Main Course,250,1,UPI,250
+1546,2025-02-05,Chicken Wings,Starters,260,3,Card,780
+1382,2025-02-05,Chicken Biryani,Main Course,320,3,UPI,960
+1552,2025-02-06,Chocolate Brownie,Desserts,160,3,UPI,480
+1268,2025-02-06,Ice Cream,Desserts,110,3,UPI,330
+1338,2025-02-06,Chicken Biryani,Main Course,320,3,UPI,960
+1311,2025-02-07,Spring Rolls,Starters,180,1,UPI,180
+1250,2025-02-08,Chicken Biryani,Main Course,320,4,UPI,1280
+1477,2025-02-08,Margherita Pizza,Main Course,250,3,UPI,750
+1373,2025-02-08,Veg Burger,Fast Food,150,1,Card,150
+1586,2025-02-08,French Fries,Fast Food,120,3,UPI,360
+1109,2025-02-10,Margherita Pizza,Main Course,250,3,Cash,750
+1091,2025-02-10,Ice Cream,Desserts,110,2,Cash,220
+1589,2025-02-11,Cold Coffee,Beverages,130,1,UPI,130
+1137,2025-02-11,Cold Coffee,Beverages,130,4,UPI,520
+1516,2025-02-12,Veg Burger,Fast Food,150,4,UPI,600
+1167,2025-02-13,Margherita Pizza,Main Course,250,3,Cash,750
+1071,2025-02-13,Chicken Biryani,Main Course,320,3,Cash,960
+1517,2025-02-13,Chicken Wings,Starters,260,3,Card,780
+1161,2025-02-14,Fresh Lime Soda,Beverages,90,1,Card,90
+1334,2025-02-15,Chicken Wings,Starters,260,2,Cash,520
+1422,2025-02-16,Margherita Pizza,Main Course,250,4,Cash,1000
+1471,2025-02-16,Pasta,Main Course,230,4,Cash,920
+1116,2025-02-17,Pasta,Main Course,230,2,UPI,460
+1453,2025-02-17,Ice Cream,Desserts,110,2,UPI,220
+1329,2025-02-18,Cold Coffee,Beverages,130,2,Card,260
+1030,2025-02-18,Ice Cream,Desserts,110,4,Card,440
+1062,2025-02-19,Ice Cream,Desserts,110,1,Card,110
+1314,2025-02-20,Fresh Lime Soda,Beverages,90,1,Card,90
+1037,2025-02-20,Fresh Lime Soda,Beverages,90,1,Cash,90
+1395,2025-02-20,Chicken Biryani,Main Course,320,4,UPI,1280
+1143,2025-02-21,Paneer Butter Masala,Main Course,280,3,Cash,840
+1576,2025-02-21,Fresh Lime Soda,Beverages,90,3,UPI,270
+1198,2025-02-21,Chicken Biryani,Main Course,320,1,Card,320
+1055,2025-02-22,Cold Coffee,Beverages,130,4,UPI,520
+1413,2025-02-22,Fresh Lime Soda,Beverages,90,4,Cash,360
+1582,2025-02-22,Pasta,Main Course,230,2,UPI,460
+1086,2025-02-22,Fresh Lime Soda,Beverages,90,1,UPI,90
+1216,2025-02-22,Spring Rolls,Starters,180,2,Cash,360
+1278,2025-02-23,Pasta,Main Course,230,4,Card,920
+1410,2025-02-23,Pasta,Main Course,230,1,Cash,230
+1356,2025-02-23,Pasta,Main Course,230,4,UPI,920
+1210,2025-02-23,Veg Burger,Fast Food,150,2,UPI,300
+1065,2025-02-23,French Fries,Fast Food,120,4,Card,480
+1039,2025-02-24,Spring Rolls,Starters,180,4,Cash,720
+1585,2025-02-26,Chicken Wings,Starters,260,4,UPI,1040
+1445,2025-02-27,Margherita Pizza,Main Course,250,3,UPI,750
+1403,2025-02-27,Pasta,Main Course,230,4,Cash,920
+1357,2025-02-27,Pasta,Main Course,230,3,UPI,690
+1437,2025-02-27,French Fries,Fast Food,120,1,UPI,120
+1031,2025-02-28,Chicken Biryani,Main Course,320,2,UPI,640
+1263,2025-03-01,French Fries,Fast Food,120,2,UPI,240
+1414,2025-03-01,French Fries,Fast Food,120,3,Card,360
+1117,2025-03-03,Paneer Butter Masala,Main Course,280,1,UPI,280
+1562,2025-03-03,Margherita Pizza,Main Course,250,2,Card,500
+1162,2025-03-03,Fresh Lime Soda,Beverages,90,3,Cash,270
+1102,2025-03-04,Ice Cream,Desserts,110,2,Card,220
+1139,2025-03-04,Chocolate Brownie,Desserts,160,2,UPI,320
+1398,2025-03-04,Veg Burger,Fast Food,150,3,UPI,450
+1095,2025-03-06,Ice Cream,Desserts,110,2,Cash,220
+1513,2025-03-06,Margherita Pizza,Main Course,250,4,UPI,1000
+1159,2025-03-07,French Fries,Fast Food,120,2,Cash,240
+1299,2025-03-09,Chicken Biryani,Main Course,320,3,UPI,960
+1579,2025-03-10,Spring Rolls,Starters,180,4,Cash,720
+1459,2025-03-10,Chocolate Brownie,Desserts,160,2,UPI,320
+1470,2025-03-10,Chicken Biryani,Main Course,320,4,UPI,1280
+1005,2025-03-13,Ice Cream,Desserts,110,3,Card,330
+1282,2025-03-16,Fresh Lime Soda,Beverages,90,1,Card,90
+1536,2025-03-16,Fresh Lime Soda,Beverages,90,1,Cash,90
+1463,2025-03-17,Fresh Lime Soda,Beverages,90,1,UPI,90
+1571,2025-03-17,Chocolate Brownie,Desserts,160,3,UPI,480
+1204,2025-03-22,Paneer Butter Masala,Main Course,280,4,UPI,1120
+1061,2025-03-22,Fresh Lime Soda,Beverages,90,1,UPI,90
+1104,2025-03-22,French Fries,Fast Food,120,1,UPI,120
+1563,2025-03-25,Ice Cream,Desserts,110,3,UPI,330
+1157,2025-03-27,Spring Rolls,Starters,180,1,UPI,180
+1466,2025-03-27,Chicken Wings,Starters,260,1,UPI,260
+1012,2025-03-29,Paneer Butter Masala,Main Course,280,4,UPI,1120
+1049,2025-03-30,Margherita Pizza,Main Course,250,4,UPI,1000
+1454,2025-03-30,Chicken Biryani,Main Course,320,4,UPI,1280
+1527,2025-03-31,Chicken Biryani,Main Course,320,4,UPI,1280
+1530,2025-03-31,Fresh Lime Soda,Beverages,90,4,UPI,360
+1436,2025-04-02,Paneer Butter Masala,Main Course,280,2,Card,560
+1389,2025-04-02,Ice Cream,Desserts,110,3,Cash,330
+1057,2025-04-02,Margherita Pizza,Main Course,250,2,UPI,500
+1529,2025-04-03,Veg Burger,Fast Food,150,4,UPI,600
+1472,2025-04-04,Margherita Pizza,Main Course,250,3,Card,750
+1343,2025-04-05,Veg Burger,Fast Food,150,1,Cash,150
+1520,2025-04-05,Chicken Wings,Starters,260,3,Card,780
+1450,2025-04-06,Chocolate Brownie,Desserts,160,3,Card,480
+1547,2025-04-06,Paneer Butter Masala,Main Course,280,4,Card,1120
+1193,2025-04-06,Spring Rolls,Starters,180,3,UPI,540
+1494,2025-04-06,Margherita Pizza,Main Course,250,1,Cash,250
+1144,2025-04-06,Cold Coffee,Beverages,130,4,Card,520
+1321,2025-04-07,Ice Cream,Desserts,110,1,UPI,110
+1234,2025-04-07,Paneer Butter Masala,Main Course,280,1,Cash,280
+1230,2025-04-08,French Fries,Fast Food,120,2,Card,240
+1289,2025-04-09,Chicken Wings,Starters,260,3,UPI,780
+1336,2025-04-09,Margherita Pizza,Main Course,250,2,Card,500
+1272,2025-04-09,Fresh Lime Soda,Beverages,90,4,UPI,360
+1120,2025-04-09,Cold Coffee,Beverages,130,3,UPI,390
+1545,2025-04-09,Fresh Lime Soda,Beverages,90,2,Card,180
+1580,2025-04-09,Cold Coffee,Beverages,130,2,UPI,260
+1344,2025-04-09,Fresh Lime Soda,Beverages,90,1,Card,90
+1257,2025-04-09,French Fries,Fast Food,120,1,UPI,120
+1478,2025-04-10,Spring Rolls,Starters,180,3,UPI,540
+1013,2025-04-10,Chocolate Brownie,Desserts,160,3,Cash,480
+1488,2025-04-10,Chicken Biryani,Main Course,320,2,UPI,640
+1569,2025-04-10,Cold Coffee,Beverages,130,3,Card,390
+1126,2025-04-11,French Fries,Fast Food,120,2,UPI,240
+1510,2025-04-11,French Fries,Fast Food,120,1,UPI,120
+1411,2025-04-11,Paneer Butter Masala,Main Course,280,2,Card,560
+1202,2025-04-11,Paneer Butter Masala,Main Course,280,2,Cash,560
+1417,2025-04-13,Ice Cream,Desserts,110,1,Card,110
+1008,2025-04-13,Spring Rolls,Starters,180,1,Cash,180
+1001,2025-04-13,Ice Cream,Desserts,110,2,Card,220
+1284,2025-04-14,Margherita Pizza,Main Course,250,3,Cash,750
+1369,2025-04-14,Veg Burger,Fast Food,150,4,Card,600
+1532,2025-04-15,Chocolate Brownie,Desserts,160,3,Card,480
+1429,2025-04-16,Pasta,Main Course,230,4,Card,920
+1066,2025-04-16,Chocolate Brownie,Desserts,160,4,Card,640
+1004,2025-04-17,Fresh Lime Soda,Beverages,90,2,UPI,180
+1166,2025-04-18,Cold Coffee,Beverages,130,2,UPI,260
+1415,2025-04-18,Spring Rolls,Starters,180,4,UPI,720
+1587,2025-04-19,Cold Coffee,Beverages,130,3,Card,390
+1288,2025-04-22,Veg Burger,Fast Food,150,2,Cash,300
+1262,2025-04-22,Pasta,Main Course,230,2,Card,460
+1283,2025-04-23,Veg Burger,Fast Food,150,3,UPI,450
+1203,2025-04-23,Pasta,Main Course,230,1,UPI,230
+1196,2025-04-23,Paneer Butter Masala,Main Course,280,4,Card,1120
+1201,2025-04-23,Ice Cream,Desserts,110,1,Card,110
+1206,2025-04-23,Paneer Butter Masala,Main Course,280,1,UPI,280
+1535,2025-04-24,Chocolate Brownie,Desserts,160,3,Cash,480
+1362,2025-04-24,Spring Rolls,Starters,180,2,Card,360
+1531,2025-04-25,Chocolate Brownie,Desserts,160,1,UPI,160
+1281,2025-04-26,Margherita Pizza,Main Course,250,4,Card,1000
+1178,2025-04-26,Fresh Lime Soda,Beverages,90,2,Card,180
+1346,2025-04-26,Chocolate Brownie,Desserts,160,2,UPI,320
+1440,2025-04-27,Cold Coffee,Beverages,130,2,Cash,260
+1452,2025-04-28,French Fries,Fast Food,120,1,UPI,120
+1279,2025-04-30,Chicken Wings,Starters,260,3,UPI,780
+1433,2025-04-30,French Fries,Fast Food,120,2,UPI,240
+1177,2025-05-01,Fresh Lime Soda,Beverages,90,4,Card,360
+1446,2025-05-02,Chicken Wings,Starters,260,2,UPI,520
+1009,2025-05-02,Chicken Wings,Starters,260,4,UPI,1040
+1592,2025-05-02,Cold Coffee,Beverages,130,1,Card,130
+1225,2025-05-03,Fresh Lime Soda,Beverages,90,4,Card,360
+1428,2025-05-04,Chicken Wings,Starters,260,3,Card,780
+1236,2025-05-04,Chocolate Brownie,Desserts,160,2,UPI,320
+1400,2025-05-05,Ice Cream,Desserts,110,2,Card,220
+1214,2025-05-06,Chicken Wings,Starters,260,4,UPI,1040
+1451,2025-05-06,Cold Coffee,Beverages,130,1,UPI,130
+1443,2025-05-07,Chicken Biryani,Main Course,320,2,Card,640
+1366,2025-05-07,Chicken Biryani,Main Course,320,1,Card,320
+1171,2025-05-08,Margherita Pizza,Main Course,250,3,UPI,750
+1352,2025-05-08,Margherita Pizza,Main Course,250,2,Cash,500
+1305,2025-05-08,Paneer Butter Masala,Main Course,280,1,Card,280
+1249,2025-05-08,Cold Coffee,Beverages,130,2,UPI,260
+1253,2025-05-09,Paneer Butter Masala,Main Course,280,1,Card,280
+1100,2025-05-09,Ice Cream,Desserts,110,4,Cash,440
+1444,2025-05-09,Chicken Biryani,Main Course,320,3,UPI,960
+1215,2025-05-10,Ice Cream,Desserts,110,2,UPI,220
+1208,2025-05-10,Chicken Biryani,Main Course,320,3,UPI,960
+1276,2025-05-11,Cold Coffee,Beverages,130,1,UPI,130
+1016,2025-05-11,French Fries,Fast Food,120,4,Card,480
+1042,2025-05-11,Ice Cream,Desserts,110,4,Card,440
+1127,2025-05-11,Spring Rolls,Starters,180,3,UPI,540
+1593,2025-05-13,French Fries,Fast Food,120,2,UPI,240
+1163,2025-05-14,Chicken Biryani,Main Course,320,1,UPI,320
+1111,2025-05-15,Margherita Pizza,Main Course,250,3,Card,750
+1044,2025-05-15,Veg Burger,Fast Food,150,1,UPI,150
+1303,2025-05-15,Chocolate Brownie,Desserts,160,4,UPI,640
+1101,2025-05-16,Paneer Butter Masala,Main Course,280,4,Cash,1120
+1183,2025-05-17,Chocolate Brownie,Desserts,160,3,Card,480
+1103,2025-05-19,Ice Cream,Desserts,110,3,UPI,330
+1267,2025-05-20,Cold Coffee,Beverages,130,2,UPI,260
+1387,2025-05-22,Fresh Lime Soda,Beverages,90,3,Card,270
+1388,2025-05-23,Chicken Biryani,Main Course,320,2,Card,640
+1148,2025-05-23,Spring Rolls,Starters,180,3,Cash,540
+1465,2025-05-24,Paneer Butter Masala,Main Course,280,2,Card,560
+1260,2025-05-24,Ice Cream,Desserts,110,4,UPI,440
+1426,2025-05-24,Cold Coffee,Beverages,130,4,UPI,520
+1233,2025-05-24,French Fries,Fast Food,120,1,Card,120
+1578,2025-05-24,Pasta,Main Course,230,1,Cash,230
+1584,2025-05-24,Chicken Biryani,Main Course,320,1,Card,320
+1432,2025-05-25,Margherita Pizza,Main Course,250,1,UPI,250
+1599,2025-05-26,Fresh Lime Soda,Beverages,90,1,UPI,90
+1431,2025-05-27,Chicken Biryani,Main Course,320,4,Card,1280
+1493,2025-05-27,Veg Burger,Fast Food,150,1,UPI,150
+1273,2025-05-27,Chocolate Brownie,Desserts,160,3,Card,480
+1325,2025-05-27,Cold Coffee,Beverages,130,1,UPI,130
+1244,2025-05-27,Chicken Wings,Starters,260,1,Card,260
+1245,2025-05-28,Veg Burger,Fast Food,150,3,UPI,450
+1241,2025-05-28,Spring Rolls,Starters,180,2,Card,360
+1017,2025-05-30,French Fries,Fast Food,120,1,Card,120
+1401,2025-05-30,Margherita Pizza,Main Course,250,3,Card,750
+1255,2025-05-31,Chicken Biryani,Main Course,320,2,UPI,640
+1365,2025-05-31,Chicken Biryani,Main Course,320,4,Card,1280
+1549,2025-05-31,Margherita Pizza,Main Course,250,1,UPI,250
+1583,2025-05-31,Spring Rolls,Starters,180,3,UPI,540
+1277,2025-06-01,Cold Coffee,Beverages,130,3,UPI,390
+1505,2025-06-01,Margherita Pizza,Main Course,250,4,Cash,1000
+1015,2025-06-01,Paneer Butter Masala,Main Course,280,2,Cash,560
+1548,2025-06-01,Cold Coffee,Beverages,130,2,Card,260
+1190,2025-06-01,Chocolate Brownie,Desserts,160,2,UPI,320
+1396,2025-06-02,Veg Burger,Fast Food,150,2,UPI,300
+1290,2025-06-02,Pasta,Main Course,230,3,UPI,690
+1464,2025-06-03,Cold Coffee,Beverages,130,1,UPI,130
+1367,2025-06-04,Chicken Wings,Starters,260,2,UPI,520
+1092,2025-06-06,French Fries,Fast Food,120,2,Card,240
+1430,2025-06-07,Spring Rolls,Starters,180,1,Card,180
+1333,2025-06-07,Paneer Butter Masala,Main Course,280,3,Card,840
+1310,2025-06-07,Cold Coffee,Beverages,130,2,UPI,260
+1269,2025-06-09,Fresh Lime Soda,Beverages,90,1,UPI,90
+1219,2025-06-09,Margherita Pizza,Main Course,250,2,UPI,500
+1153,2025-06-09,French Fries,Fast Food,120,4,Card,480
+1503,2025-06-09,Chocolate Brownie,Desserts,160,1,UPI,160
+1192,2025-06-09,Margherita Pizza,Main Course,250,4,UPI,1000
+1024,2025-06-10,Margherita Pizza,Main Course,250,1,UPI,250
+1349,2025-06-10,Pasta,Main Course,230,1,Card,230
+1298,2025-06-10,Chicken Wings,Starters,260,4,Card,1040
+1280,2025-06-10,Chocolate Brownie,Desserts,160,4,Card,640
+1072,2025-06-11,Veg Burger,Fast Food,150,3,Card,450
+1507,2025-06-12,Pasta,Main Course,230,3,UPI,690
+1295,2025-06-12,Paneer Butter Masala,Main Course,280,4,UPI,1120
+1594,2025-06-12,Fresh Lime Soda,Beverages,90,4,UPI,360
+1105,2025-06-12,Cold Coffee,Beverages,130,4,UPI,520
+1540,2025-06-13,Chicken Wings,Starters,260,2,Card,520
+1185,2025-06-14,Ice Cream,Desserts,110,2,UPI,220
+1047,2025-06-16,Cold Coffee,Beverages,130,3,Card,390
+1514,2025-06-17,Pasta,Main Course,230,2,Card,460
+1297,2025-06-18,Chocolate Brownie,Desserts,160,2,Card,320
+1374,2025-06-19,Ice Cream,Desserts,110,1,Card,110
+1032,2025-06-19,Ice Cream,Desserts,110,1,Cash,110
+1160,2025-06-19,French Fries,Fast Food,120,2,UPI,240
+1407,2025-06-19,Chocolate Brownie,Desserts,160,3,Card,480
+1149,2025-06-20,Pasta,Main Course,230,1,Card,230
+1189,2025-06-21,French Fries,Fast Food,120,1,Card,120
+1217,2025-06-21,Fresh Lime Soda,Beverages,90,1,UPI,90
+1331,2025-06-21,Veg Burger,Fast Food,150,4,Card,600
+1121,2025-06-21,Paneer Butter Masala,Main Course,280,3,Card,840
+1383,2025-06-22,Cold Coffee,Beverages,130,2,UPI,260
+1360,2025-06-23,Chocolate Brownie,Desserts,160,3,Card,480
+1036,2025-06-24,Fresh Lime Soda,Beverages,90,4,UPI,360
+1307,2025-06-25,Pasta,Main Course,230,3,Card,690
+1372,2025-06-25,Paneer Butter Masala,Main Course,280,2,Card,560
+1568,2025-06-26,Chicken Wings,Starters,260,4,Cash,1040
+1544,2025-06-26,Ice Cream,Desserts,110,1,Card,110
+1506,2025-06-27,Veg Burger,Fast Food,150,4,UPI,600
+1138,2025-06-28,Pasta,Main Course,230,1,Cash,230
+1509,2025-06-28,Fresh Lime Soda,Beverages,90,1,UPI,90
+1490,2025-06-29,Chicken Biryani,Main Course,320,4,UPI,1280
+1195,2025-06-29,French Fries,Fast Food,120,3,Card,360
+1406,2025-06-29,Veg Burger,Fast Food,150,2,UPI,300
+1342,2025-06-30,Pasta,Main Course,230,3,Cash,690
+1588,2025-06-30,French Fries,Fast Food,120,4,UPI,480
+1554,2025-07-02,Ice Cream,Desserts,110,1,UPI,110
+1224,2025-07-03,Margherita Pizza,Main Course,250,2,Card,500
+1467,2025-07-04,Chicken Wings,Starters,260,4,UPI,1040
+1397,2025-07-05,Margherita Pizza,Main Course,250,3,UPI,750
+1590,2025-07-05,Fresh Lime Soda,Beverages,90,1,UPI,90
+1155,2025-07-06,Chicken Biryani,Main Course,320,3,UPI,960
+1205,2025-07-06,Paneer Butter Masala,Main Course,280,2,UPI,560
+1566,2025-07-06,Pasta,Main Course,230,2,UPI,460
+1237,2025-07-06,Chocolate Brownie,Desserts,160,4,UPI,640
+1033,2025-07-07,Pasta,Main Course,230,1,Cash,230
+1090,2025-07-07,Chicken Wings,Starters,260,4,UPI,1040
+1345,2025-07-07,Paneer Butter Masala,Main Course,280,1,UPI,280
+1006,2025-07-08,Margherita Pizza,Main Course,250,2,UPI,500
+1457,2025-07-08,French Fries,Fast Food,120,3,Card,360
+1035,2025-07-09,Chocolate Brownie,Desserts,160,1,Cash,160
+1174,2025-07-09,Ice Cream,Desserts,110,1,UPI,110
+1550,2025-07-09,Chicken Wings,Starters,260,1,UPI,260
+1080,2025-07-09,Pasta,Main Course,230,2,Cash,460
+1399,2025-07-09,Margherita Pizza,Main Course,250,1,UPI,250
+1069,2025-07-10,Veg Burger,Fast Food,150,1,UPI,150
+1347,2025-07-10,Chicken Wings,Starters,260,1,UPI,260
+1542,2025-07-11,Fresh Lime Soda,Beverages,90,2,Card,180
+1328,2025-07-11,Chicken Biryani,Main Course,320,3,Cash,960
+1458,2025-07-11,Chicken Biryani,Main Course,320,3,UPI,960
+1022,2025-07-11,Pasta,Main Course,230,4,Cash,920
+1293,2025-07-13,Spring Rolls,Starters,180,2,UPI,360
+1304,2025-07-14,Ice Cream,Desserts,110,3,Cash,330
+1533,2025-07-15,French Fries,Fast Food,120,2,Cash,240
+1418,2025-07-15,Paneer Butter Masala,Main Course,280,2,UPI,560
+1182,2025-07-17,Chicken Biryani,Main Course,320,4,Card,1280
+1220,2025-07-17,French Fries,Fast Food,120,3,Cash,360
+1231,2025-07-17,Paneer Butter Masala,Main Course,280,2,Card,560
+1247,2025-07-18,Veg Burger,Fast Food,150,3,UPI,450
+1235,2025-07-20,Chocolate Brownie,Desserts,160,2,UPI,320
+1112,2025-07-20,French Fries,Fast Food,120,3,UPI,360
+1073,2025-07-21,Cold Coffee,Beverages,130,2,UPI,260
+1223,2025-07-22,Chicken Wings,Starters,260,2,Card,520
+1474,2025-07-23,Margherita Pizza,Main Course,250,2,Card,500
+1574,2025-07-25,French Fries,Fast Food,120,4,UPI,480
+1060,2025-07-25,Pasta,Main Course,230,1,Card,230
+1134,2025-07-26,Chocolate Brownie,Desserts,160,3,Card,480
+1296,2025-07-27,Fresh Lime Soda,Beverages,90,1,UPI,90
+1083,2025-07-27,Cold Coffee,Beverages,130,4,UPI,520
+1275,2025-07-27,Fresh Lime Soda,Beverages,90,1,UPI,90
+1082,2025-08-01,Spring Rolls,Starters,180,3,UPI,540
+1123,2025-08-02,Chicken Wings,Starters,260,4,Cash,1040
+1595,2025-08-03,Cold Coffee,Beverages,130,2,UPI,260
+1525,2025-08-03,Chocolate Brownie,Desserts,160,3,UPI,480
+1393,2025-08-03,Pasta,Main Course,230,3,Cash,690
+1010,2025-08-03,Fresh Lime Soda,Beverages,90,3,Cash,270
+1078,2025-08-03,French Fries,Fast Food,120,2,Cash,240
+1118,2025-08-04,Chicken Biryani,Main Course,320,3,UPI,960
+1088,2025-08-05,Pasta,Main Course,230,3,Card,690
+1564,2025-08-05,Fresh Lime Soda,Beverages,90,2,Cash,180
+1537,2025-08-05,Chicken Wings,Starters,260,2,UPI,520
+1557,2025-08-05,French Fries,Fast Food,120,4,Card,480
+1070,2025-08-06,Chicken Biryani,Main Course,320,2,Cash,640
+1218,2025-08-06,Chicken Biryani,Main Course,320,1,Cash,320
+1475,2025-08-06,Cold Coffee,Beverages,130,2,Card,260
+1130,2025-08-06,Pasta,Main Course,230,2,UPI,460
+1469,2025-08-08,Chicken Wings,Starters,260,4,Card,1040
+1209,2025-08-08,Paneer Butter Masala,Main Course,280,1,Card,280
+1332,2025-08-08,Pasta,Main Course,230,4,Cash,920
+1596,2025-08-09,Chicken Biryani,Main Course,320,1,UPI,320
+1481,2025-08-10,Chicken Wings,Starters,260,1,Cash,260
+1145,2025-08-10,Chicken Biryani,Main Course,320,2,Card,640
+1491,2025-08-11,Chicken Wings,Starters,260,2,UPI,520
+1591,2025-08-11,Veg Burger,Fast Food,150,3,Card,450
+1355,2025-08-11,French Fries,Fast Food,120,3,Cash,360
+1575,2025-08-11,French Fries,Fast Food,120,1,Card,120
+1212,2025-08-12,Pasta,Main Course,230,3,UPI,690
+1551,2025-08-12,Ice Cream,Desserts,110,2,Cash,220
+1186,2025-08-13,Margherita Pizza,Main Course,250,2,Card,500
+1213,2025-08-13,Margherita Pizza,Main Course,250,2,UPI,500
+1175,2025-08-13,Chicken Wings,Starters,260,1,Cash,260
+1318,2025-08-14,Spring Rolls,Starters,180,1,UPI,180
+1125,2025-08-15,Chocolate Brownie,Desserts,160,4,UPI,640
+1543,2025-08-15,Chocolate Brownie,Desserts,160,1,UPI,160
+1287,2025-08-15,Chicken Biryani,Main Course,320,2,UPI,640
+1439,2025-08-17,Chocolate Brownie,Desserts,160,1,Card,160
+1312,2025-08-18,French Fries,Fast Food,120,2,UPI,240
+1146,2025-08-19,Margherita Pizza,Main Course,250,3,Card,750
+1108,2025-08-19,Pasta,Main Course,230,3,UPI,690
+1173,2025-08-19,Paneer Butter Masala,Main Course,280,4,Cash,1120
+1141,2025-08-19,Margherita Pizza,Main Course,250,2,Card,500
+1271,2025-08-21,Margherita Pizza,Main Course,250,1,UPI,250
+1337,2025-08-21,Ice Cream,Desserts,110,4,Card,440
+1179,2025-08-21,Paneer Butter Masala,Main Course,280,1,UPI,280
+1194,2025-08-21,French Fries,Fast Food,120,2,Card,240
+1570,2025-08-21,Pasta,Main Course,230,4,UPI,920
+1188,2025-08-22,Ice Cream,Desserts,110,4,Card,440
+1597,2025-08-23,Veg Burger,Fast Food,150,3,Card,450
+1028,2025-08-24,Veg Burger,Fast Food,150,2,Cash,300
+1084,2025-08-25,Chocolate Brownie,Desserts,160,1,UPI,160
+1455,2025-08-25,French Fries,Fast Food,120,4,Card,480
+1147,2025-08-25,French Fries,Fast Food,120,2,Cash,240
+1309,2025-08-26,Chicken Biryani,Main Course,320,3,Card,960
+1473,2025-08-26,Spring Rolls,Starters,180,1,UPI,180
+1448,2025-08-27,Ice Cream,Desserts,110,2,Cash,220
+1600,2025-08-27,Chocolate Brownie,Desserts,160,1,Card,160
+1232,2025-08-28,Pasta,Main Course,230,1,Card,230
+1142,2025-08-29,Margherita Pizza,Main Course,250,3,UPI,750
+1052,2025-08-30,Cold Coffee,Beverages,130,3,UPI,390
+1523,2025-08-30,Ice Cream,Desserts,110,2,Card,220
+1156,2025-08-31,French Fries,Fast Food,120,4,UPI,480
+1040,2025-09-01,Chicken Biryani,Main Course,320,2,UPI,640
+1486,2025-09-03,Pasta,Main Course,230,2,Card,460
+1371,2025-09-03,Pasta,Main Course,230,3,Card,690
+1221,2025-09-04,Veg Burger,Fast Food,150,1,Card,150
+1501,2025-09-04,Margherita Pizza,Main Course,250,3,Card,750
+1462,2025-09-04,Cold Coffee,Beverages,130,2,Card,260
+1375,2025-09-04,Chocolate Brownie,Desserts,160,2,Cash,320
+1539,2025-09-06,Pasta,Main Course,230,3,Card,690
+1484,2025-09-07,Spring Rolls,Starters,180,3,Card,540
+1492,2025-09-07,Fresh Lime Soda,Beverages,90,2,UPI,180
+1079,2025-09-09,Pasta,Main Course,230,2,UPI,460
+1089,2025-09-09,Ice Cream,Desserts,110,3,Cash,330
+1259,2025-09-09,Paneer Butter Masala,Main Course,280,1,Cash,280
+1242,2025-09-09,Chocolate Brownie,Desserts,160,1,UPI,160
+1027,2025-09-10,Veg Burger,Fast Food,150,3,UPI,450
+1348,2025-09-10,Chocolate Brownie,Desserts,160,3,Card,480
+1522,2025-09-10,Veg Burger,Fast Food,150,1,Card,150
+1286,2025-09-11,Margherita Pizza,Main Course,250,3,Card,750
+1480,2025-09-11,French Fries,Fast Food,120,1,UPI,120
+1266,2025-09-11,French Fries,Fast Food,120,4,Cash,480
+1226,2025-09-12,Margherita Pizza,Main Course,250,1,Card,250
+1131,2025-09-12,Margherita Pizza,Main Course,250,4,Card,1000
+1350,2025-09-13,French Fries,Fast Food,120,3,Cash,360
+1128,2025-09-14,Chicken Wings,Starters,260,4,Card,1040
+1495,2025-09-14,Veg Burger,Fast Food,150,4,UPI,600
+1019,2025-09-15,Chicken Biryani,Main Course,320,4,Cash,1280
+1502,2025-09-15,French Fries,Fast Food,120,1,UPI,120
+1180,2025-09-16,Pasta,Main Course,230,2,Cash,460
+1240,2025-09-16,Spring Rolls,Starters,180,2,UPI,360
+1067,2025-09-17,Ice Cream,Desserts,110,3,UPI,330
+1107,2025-09-18,Chocolate Brownie,Desserts,160,1,Card,160
+1419,2025-09-19,Chicken Wings,Starters,260,3,Cash,780
+1258,2025-09-20,French Fries,Fast Food,120,2,UPI,240
+1412,2025-09-21,Chicken Wings,Starters,260,3,UPI,780
+1058,2025-09-21,Pasta,Main Course,230,4,UPI,920
+1386,2025-09-21,Chicken Wings,Starters,260,2,Card,520
+1315,2025-09-21,Spring Rolls,Starters,180,1,UPI,180
+1528,2025-09-21,Veg Burger,Fast Food,150,3,UPI,450
+1053,2025-09-22,Ice Cream,Desserts,110,3,UPI,330
+1572,2025-09-22,Spring Rolls,Starters,180,2,Card,360
+1254,2025-09-24,Fresh Lime Soda,Beverages,90,3,Card,270
+1199,2025-09-25,Spring Rolls,Starters,180,2,UPI,360
+1511,2025-09-25,Chocolate Brownie,Desserts,160,1,UPI,160
+1114,2025-09-25,Ice Cream,Desserts,110,1,UPI,110
+1553,2025-09-25,Ice Cream,Desserts,110,3,UPI,330
+1427,2025-09-26,Chocolate Brownie,Desserts,160,3,Card,480
+1074,2025-09-27,Paneer Butter Masala,Main Course,280,2,Card,560
+1077,2025-09-28,Margherita Pizza,Main Course,250,1,UPI,250
+1034,2025-09-28,Spring Rolls,Starters,180,3,UPI,540
+1409,2025-09-28,Margherita Pizza,Main Course,250,3,Cash,750
+1003,2025-09-28,Fresh Lime Soda,Beverages,90,3,UPI,270
+1456,2025-09-29,French Fries,Fast Food,120,3,UPI,360
+1368,2025-09-30,French Fries,Fast Food,120,1,UPI,120
+1561,2025-09-30,Fresh Lime Soda,Beverages,90,3,UPI,270
+1048,2025-10-01,Spring Rolls,Starters,180,1,UPI,180
+1435,2025-10-02,Ice Cream,Desserts,110,1,Card,110
+1301,2025-10-04,Chicken Biryani,Main Course,320,3,Card,960
+1023,2025-10-04,Veg Burger,Fast Food,150,1,UPI,150
+1538,2025-10-04,Pasta,Main Course,230,2,Card,460
+1319,2025-10-04,Pasta,Main Course,230,1,UPI,230
+1460,2025-10-05,Fresh Lime Soda,Beverages,90,4,UPI,360
+1442,2025-10-06,Ice Cream,Desserts,110,2,Cash,220
+1556,2025-10-06,Veg Burger,Fast Food,150,3,Cash,450
+1228,2025-10-07,Veg Burger,Fast Food,150,4,UPI,600
+1361,2025-10-07,Chicken Wings,Starters,260,1,Card,260
+1339,2025-10-07,Fresh Lime Soda,Beverages,90,1,UPI,90
+1087,2025-10-07,Chicken Wings,Starters,260,3,Cash,780
+1499,2025-10-07,Pasta,Main Course,230,3,Cash,690
+1354,2025-10-08,Pasta,Main Course,230,4,UPI,920
+1176,2025-10-10,Spring Rolls,Starters,180,2,Card,360
+1316,2025-10-10,Cold Coffee,Beverages,130,1,UPI,130
+1133,2025-10-10,Margherita Pizza,Main Course,250,2,UPI,500
+1573,2025-10-11,Margherita Pizza,Main Course,250,1,UPI,250
+1164,2025-10-11,Margherita Pizza,Main Course,250,4,Cash,1000
+1158,2025-10-11,French Fries,Fast Food,120,4,Card,480
+1322,2025-10-11,Cold Coffee,Beverages,130,3,Card,390
+1518,2025-10-12,Veg Burger,Fast Food,150,2,UPI,300
+1468,2025-10-12,Spring Rolls,Starters,180,1,Cash,180
+1169,2025-10-13,Veg Burger,Fast Food,150,3,Card,450
+1320,2025-10-13,Fresh Lime Soda,Beverages,90,1,Cash,90
+1560,2025-10-13,Chicken Wings,Starters,260,1,UPI,260
+1392,2025-10-15,Fresh Lime Soda,Beverages,90,1,UPI,90
+1363,2025-10-15,Cold Coffee,Beverages,130,4,UPI,520
+1300,2025-10-16,Spring Rolls,Starters,180,4,UPI,720
+1479,2025-10-16,Paneer Butter Masala,Main Course,280,4,Card,1120
+1106,2025-10-16,Veg Burger,Fast Food,150,1,Card,150
+1489,2025-10-17,Spring Rolls,Starters,180,2,UPI,360
+1449,2025-10-17,Chicken Wings,Starters,260,3,UPI,780
+1119,2025-10-20,French Fries,Fast Food,120,1,Card,120
+1021,2025-10-21,Margherita Pizza,Main Course,250,1,Card,250
+1227,2025-10-21,Ice Cream,Desserts,110,2,Card,220
+1200,2025-10-22,Pasta,Main Course,230,3,UPI,690
+1081,2025-10-23,Chicken Biryani,Main Course,320,3,UPI,960
+1256,2025-10-25,Chicken Biryani,Main Course,320,1,Card,320
+1370,2025-10-26,Chicken Wings,Starters,260,3,UPI,780
+1094,2025-10-28,Fresh Lime Soda,Beverages,90,2,UPI,180
+1521,2025-10-29,French Fries,Fast Food,120,2,Cash,240
+1341,2025-10-29,French Fries,Fast Food,120,3,UPI,360
+1324,2025-10-31,Veg Burger,Fast Food,150,2,UPI,300
+1302,2025-10-31,Spring Rolls,Starters,180,3,UPI,540
+1274,2025-10-31,Cold Coffee,Beverages,130,2,Cash,260
+1265,2025-10-31,Margherita Pizza,Main Course,250,2,UPI,500
+1076,2025-10-31,Margherita Pizza,Main Course,250,4,UPI,1000
+1405,2025-11-01,Chocolate Brownie,Desserts,160,3,Card,480
+1378,2025-11-02,Pasta,Main Course,230,2,Cash,460
+1043,2025-11-03,Fresh Lime Soda,Beverages,90,3,UPI,270
+1187,2025-11-03,Pasta,Main Course,230,4,Card,920
+1248,2025-11-04,Chicken Wings,Starters,260,4,UPI,1040
+1425,2025-11-04,Margherita Pizza,Main Course,250,3,UPI,750
+1018,2025-11-05,Pasta,Main Course,230,3,Card,690
+1068,2025-11-06,French Fries,Fast Food,120,2,UPI,240
+1294,2025-11-06,Chicken Wings,Starters,260,1,UPI,260
+1424,2025-11-07,Cold Coffee,Beverages,130,3,Card,390
+1381,2025-11-09,Pasta,Main Course,230,1,Card,230
+1534,2025-11-10,Veg Burger,Fast Food,150,1,UPI,150
+1402,2025-11-10,Fresh Lime Soda,Beverages,90,2,Card,180
+1025,2025-11-10,Spring Rolls,Starters,180,1,UPI,180
+1191,2025-11-11,Cold Coffee,Beverages,130,2,UPI,260
+1050,2025-11-12,Chicken Biryani,Main Course,320,1,UPI,320
+1380,2025-11-12,Chicken Wings,Starters,260,3,UPI,780
+1323,2025-11-13,Margherita Pizza,Main Course,250,4,Cash,1000
+1441,2025-11-14,Paneer Butter Masala,Main Course,280,4,Card,1120
+1197,2025-11-14,Chocolate Brownie,Desserts,160,4,UPI,640
+1184,2025-11-14,Paneer Butter Masala,Main Course,280,4,Card,1120
+1434,2025-11-15,Ice Cream,Desserts,110,1,Cash,110
+1041,2025-11-16,Paneer Butter Masala,Main Course,280,2,Card,560
+1385,2025-11-17,Chocolate Brownie,Desserts,160,2,Card,320
+1391,2025-11-18,Pasta,Main Course,230,3,Cash,690
+1358,2025-11-19,Spring Rolls,Starters,180,1,Card,180
+1351,2025-11-19,Cold Coffee,Beverages,130,4,UPI,520
+1512,2025-11-19,Fresh Lime Soda,Beverages,90,3,Cash,270
+1222,2025-11-20,Fresh Lime Soda,Beverages,90,3,Card,270
+1496,2025-11-21,Spring Rolls,Starters,180,1,UPI,180
+1229,2025-11-21,Chicken Wings,Starters,260,1,UPI,260
+1487,2025-11-21,Pasta,Main Course,230,4,Card,920
+1238,2025-11-22,Chicken Biryani,Main Course,320,3,UPI,960
+1408,2025-11-22,Chicken Biryani,Main Course,320,2,UPI,640
+1097,2025-11-23,Fresh Lime Soda,Beverages,90,1,UPI,90
+1154,2025-11-23,Pasta,Main Course,230,1,UPI,230
+1113,2025-11-24,Veg Burger,Fast Food,150,3,Card,450
+1046,2025-11-25,Chicken Wings,Starters,260,1,UPI,260
+1515,2025-11-26,Pasta,Main Course,230,3,Card,690
+1170,2025-11-27,Margherita Pizza,Main Course,250,3,Cash,750
+1011,2025-11-27,Cold Coffee,Beverages,130,3,Cash,390
+1598,2025-11-27,Cold Coffee,Beverages,130,4,UPI,520
+1500,2025-12-02,Cold Coffee,Beverages,130,1,Card,130
+1526,2025-12-03,Chicken Biryani,Main Course,320,4,UPI,1280
+1085,2025-12-04,Ice Cream,Desserts,110,4,Cash,440
+1251,2025-12-04,Chicken Biryani,Main Course,320,1,UPI,320
+1292,2025-12-04,Ice Cream,Desserts,110,2,Card,220
+1577,2025-12-05,Veg Burger,Fast Food,150,1,Card,150
+1056,2025-12-06,Chicken Wings,Starters,260,3,Cash,780
+1168,2025-12-06,Chicken Biryani,Main Course,320,2,UPI,640
+1504,2025-12-06,Spring Rolls,Starters,180,4,UPI,720
+1285,2025-12-06,Chicken Wings,Starters,260,4,Card,1040
+1476,2025-12-07,Margherita Pizza,Main Course,250,1,UPI,250
+1364,2025-12-08,Spring Rolls,Starters,180,2,Card,360
+1565,2025-12-08,Cold Coffee,Beverages,130,2,Cash,260
+1394,2025-12-08,Veg Burger,Fast Food,150,4,Card,600
+1404,2025-12-08,French Fries,Fast Food,120,3,Card,360
+1211,2025-12-09,Cold Coffee,Beverages,130,2,UPI,260
+1099,2025-12-10,Fresh Lime Soda,Beverages,90,3,Cash,270
+1020,2025-12-10,Chicken Wings,Starters,260,2,Card,520
+1029,2025-12-11,Pasta,Main Course,230,2,UPI,460
+1096,2025-12-11,Veg Burger,Fast Food,150,4,Cash,600
+1136,2025-12-12,Fresh Lime Soda,Beverages,90,4,Card,360
+1054,2025-12-12,Margherita Pizza,Main Course,250,3,UPI,750
+1261,2025-12-12,Fresh Lime Soda,Beverages,90,2,Card,180
+1438,2025-12-12,Chicken Wings,Starters,260,4,UPI,1040
+1243,2025-12-12,Pasta,Main Course,230,3,Card,690
+1172,2025-12-14,Chicken Wings,Starters,260,4,Card,1040
+1340,2025-12-15,Cold Coffee,Beverages,130,4,Card,520
+1239,2025-12-15,Cold Coffee,Beverages,130,1,Cash,130
+1291,2025-12-15,Fresh Lime Soda,Beverages,90,4,UPI,360
+1002,2025-12-15,Cold Coffee,Beverages,130,2,UPI,260
+1461,2025-12-15,Veg Burger,Fast Food,150,1,Card,150
+1421,2025-12-16,Veg Burger,Fast Food,150,3,UPI,450
+1075,2025-12-17,Cold Coffee,Beverages,130,2,Card,260
+1246,2025-12-18,Chicken Wings,Starters,260,2,Card,520
+1140,2025-12-18,Chocolate Brownie,Desserts,160,1,UPI,160
+1390,2025-12-20,French Fries,Fast Food,120,1,UPI,120
+1423,2025-12-21,French Fries,Fast Food,120,2,UPI,240
+1558,2025-12-21,Chicken Wings,Starters,260,2,Cash,520
+1377,2025-12-21,Pasta,Main Course,230,4,Cash,920
+1482,2025-12-23,Chicken Wings,Starters,260,2,Card,520
+1541,2025-12-23,Spring Rolls,Starters,180,1,UPI,180
+1132,2025-12-25,Paneer Butter Masala,Main Course,280,4,UPI,1120
+1181,2025-12-25,Pasta,Main Course,230,1,Cash,230
+1063,2025-12-26,French Fries,Fast Food,120,1,Cash,120
+1122,2025-12-26,Fresh Lime Soda,Beverages,90,1,UPI,90
+1014,2025-12-26,Fresh Lime Soda,Beverages,90,3,Card,270
+1252,2025-12-26,Chocolate Brownie,Desserts,160,1,Card,160
+1359,2025-12-26,Veg Burger,Fast Food,150,1,UPI,150
+1559,2025-12-27,French Fries,Fast Food,120,1,Card,120
+1038,2025-12-30,Chicken Biryani,Main Course,320,1,UPI,320
+1313,2025-12-31,Ice Cream,Desserts,110,2,Cash,220
+1420,2025-12-31,Paneer Butter Masala,Main Course,280,1,UPI,280

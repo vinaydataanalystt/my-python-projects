@@ -1,0 +1,27 @@
+course_id,title,category,level,description,rating,weeks
+1,Python for Beginners,Programming,Beginner,python basics variables loops functions coding programming,4.7,6
+2,Advanced Python Programming,Programming,Advanced,python decorators generators oop advanced coding programming,4.5,8
+3,Java Programming Masterclass,Programming,Intermediate,java oop classes objects programming backend coding,4.6,10
+4,C and C++ Fundamentals,Programming,Beginner,c cpp pointers memory programming basics coding,4.3,8
+5,Web Development with HTML and CSS,Web Development,Beginner,html css website design layout responsive frontend,4.6,5
+6,JavaScript Essentials,Web Development,Beginner,javascript dom events web frontend programming browser,4.6,6
+7,React for Frontend Developers,Web Development,Intermediate,react javascript components hooks frontend web,4.7,8
+8,Node.js and Express Backend,Web Development,Intermediate,nodejs express api backend javascript server database,4.5,8
+9,Data Analysis with Pandas,Data Science,Beginner,python pandas numpy data analysis cleaning dataframe,4.7,6
+10,Data Visualization with Power BI,Data Science,Beginner,power bi dashboard charts reports data visualization dax,4.6,5
+11,Statistics for Data Science,Data Science,Intermediate,statistics probability hypothesis testing data analysis mathematics,4.4,7
+12,Machine Learning with Python,Machine Learning,Intermediate,machine learning python scikit-learn regression classification models prediction,4.8,10
+13,Deep Learning with TensorFlow,Machine Learning,Advanced,deep learning neural networks tensorflow keras python models,4.7,12
+14,Natural Language Processing,Machine Learning,Advanced,nlp text python machine learning chatbot tokens sentiment,4.5,10
+15,Computer Vision with OpenCV,Machine Learning,Advanced,opencv images computer vision python detection deep learning,4.4,9
+16,SQL for Beginners,Databases,Beginner,sql queries select join database tables data,4.6,4
+17,MySQL Database Administration,Databases,Intermediate,mysql database admin backup performance sql queries,4.3,6
+18,MongoDB for Developers,Databases,Intermediate,mongodb nosql database documents backend queries,4.4,5
+19,Excel for Data Analysis,Business,Beginner,excel formulas pivot tables charts data analysis spreadsheet,4.5,4
+20,Digital Marketing Fundamentals,Business,Beginner,marketing seo social media ads content brand analytics,4.3,5
+21,Project Management Basics,Business,Beginner,project management planning teams agile scrum leadership,4.4,5
+22,Cloud Computing with AWS,Cloud,Intermediate,aws cloud servers storage deployment computing devops,4.6,8
+23,Docker and Kubernetes,Cloud,Advanced,docker kubernetes containers deployment devops cloud,4.5,7
+24,Cyber Security Essentials,Security,Beginner,security hacking network encryption threats protection,4.4,6
+25,UI UX Design Fundamentals,Design,Beginner,ui ux design figma wireframes prototype user experience,4.5,5
+26,Generative AI and Prompt Engineering,Machine Learning,Beginner,generative ai prompt engineering chatgpt llm text models,4.6,4
